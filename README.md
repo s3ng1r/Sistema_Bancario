@@ -28,9 +28,8 @@ Este é um sistema de banco chamado DioBank, desenvolvido para permitir que os c
 - O extrato exibe as entradas de depósito e saque, formatadas com os valores correspondentes.
 - O saldo atual da conta é exibido no final do extrato.
 
-### Encerramento
+### Encerramento de Operação
 
-- Os clientes podem encerrar sua conta no sistema.
 - Uma mensagem de despedida personalizada é exibida com base no nome do cliente.
 
 ## Implementações
